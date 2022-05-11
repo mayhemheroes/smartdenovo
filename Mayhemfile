@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-smartdenovo
+target: wtcns
+
+cmds:
+  - cmd: /smartdenovo/wtcns @@
+    filepath: /test.lay
